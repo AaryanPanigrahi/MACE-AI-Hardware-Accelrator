@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Tue Jan 27 13:51:16 2026
+# Process ID         : 17012
+# Current directory  : C:/hdl_projects/setup_project
+# Command line       : vivado.exe -mode batch -source scripts/synth.tcl -tclargs adder C:\hdl_projects\setup_project\rtl\adder.sv xczu5ev-sfvc784-1-e C:\hdl_projects\setup_project\build\adder
+# Log file           : C:/hdl_projects/setup_project/vivado.log
+# Journal file       : C:/hdl_projects/setup_project\vivado.jou
+# Running On         : ErwaPC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 3600 6-Core Processor              
+# CPU Frequency      : 3950 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 17107 MB
+# Swap memory        : 18253 MB
+# Total Virtual      : 35361 MB
+# Available Virtual  : 15899 MB
+#-----------------------------------------------------------
+source scripts/synth.tcl

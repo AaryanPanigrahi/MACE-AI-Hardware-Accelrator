@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sun Feb  8 13:24:51 2026
+# Process ID         : 38592
+# Current directory  : C:/hdl_projects/setup_project
+# Command line       : vivado.exe -mode batch -source scripts/gen_axi_vip.tcl
+# Log file           : C:/hdl_projects/setup_project/vivado.log
+# Journal file       : C:/hdl_projects/setup_project\vivado.jou
+# Running On         : ErwaPC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 3600 6-Core Processor              
+# CPU Frequency      : 3950 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 17107 MB
+# Swap memory        : 18608 MB
+# Total Virtual      : 35716 MB
+# Available Virtual  : 4567 MB
+#-----------------------------------------------------------
+source scripts/gen_axi_vip.tcl
+# set IP_NAME   axi_vip_0
+# set IP_DIR    ./ip
+# set PART      xczu5ev-sfvc784-1-e
+# create_project vip_proj ./vivado_vip -part $PART -force
+create_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 544.359 ; gain = 218.543
+# set_property target_language SystemVerilog [current_project]
+ERROR: [Common 17-162] Invalid option value specified for 'value'.
+INFO: [Common 17-206] Exiting Vivado at Sun Feb  8 13:25:03 2026...

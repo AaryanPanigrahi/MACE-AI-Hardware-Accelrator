@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/hdl_projects/setup_project/rtl/adder.sv" into library work
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/hdl_projects/setup_project/tb/adder_tb.sv" into library work
+INFO: [VRFC 10-311] analyzing module adder_tb
